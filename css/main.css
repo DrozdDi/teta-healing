@@ -1,0 +1,37 @@
+/* font-family: 'Uni Neue';
+font-family: 'Uni Neue Book'; */
+
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+}
+
+.header{
+    height: 800px;
+    background-color: #EEF9FF;
+}
+
+.container{
+    width: 1260px;
+    margin-left: auto;
+    margin-right: auto  ;
+}
+
+.nav{
+
+}
+
+.logo{
+
+}
+
+.logo__title{
+
+}
+
+.logo__slogan{
+    
+}
